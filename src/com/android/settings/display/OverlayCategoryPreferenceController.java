@@ -126,8 +126,8 @@ public class OverlayCategoryPreferenceController extends AbstractPreferenceContr
                         return mOverlayManager.setEnabledExclusiveInCategory(packageName,
                                 USER_SYSTEM);
                     }
-                } catch (SecurityException | IllegalStateException | RemoteException e) {
-                    Log.w(TAG, "Error enabling overlay.", e);
+                } catch (RemoteException re) {
+                    Log.w(TAG, "Error enabling overlay.", re);
                     return false;
                 }
             }
