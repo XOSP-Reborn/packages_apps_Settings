@@ -19,4 +19,9 @@
     <string name="maintainer">Maintainer</string>
     <string name="maintainer_name">Some random memetainer</string>
     <string name="maintainer_telegram_username">https://youtu.be/dQw4w9WgXcQ</string>
+
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader</string>
+
 </resources>
