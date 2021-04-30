@@ -21,10 +21,10 @@
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
 
-    <!-- XOSPR pink sexy logo -->
+    <!-- SoniUI pink sexy logo -->
     <com.android.settingslib.widget.LayoutPreference
-        android:key="xosp_logo"
-        android:layout="@layout/xosp_logo"
+        android:key="soni_logo"
+        android:layout="@layout/soni_logo"
         android:selectable="false"/>
 
     <!-- Android version -->
@@ -60,7 +60,7 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.MainlineModuleVersionPreferenceController"/>
 
-    <!-- XOSP maintainer -->
+    <!-- SoniUI maintainer -->
     <Preference
         android:key="maintainer"
         android:title="@string/maintainer"

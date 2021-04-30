@@ -1,4 +1,4 @@
-package com.android.settings.xosp.controllers;
+package com.android.settings.soni.controllers;
 
 import android.content.ComponentName;
 import android.content.Context;

@@ -44,7 +44,7 @@
         android:summary="@string/summary_placeholder"
         android:icon="@drawable/ic_homepage_themes"
         android:order="-110"
-        settings:controller="com.android.settings.xosp.controllers.TopLevelThemePreferenceController"/>
+        settings:controller="com.android.settings.soni.controllers.TopLevelThemePreferenceController"/>
 
     <Preference
         android:key="top_level_apps_and_notifs"
