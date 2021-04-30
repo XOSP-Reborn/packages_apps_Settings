@@ -24,4 +24,9 @@
     <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
     <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader</string>
 
+    <!-- Theme Settings -->
+    <string name="theme_settings_title">Appearance</string>
+    <string name="theme_settings_summary">Accent colors, icon shapes and more</string>
+    <string name="system_customization_category">System Customization</string>
+
 </resources>
