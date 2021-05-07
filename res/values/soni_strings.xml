@@ -29,4 +29,10 @@
     <string name="theme_settings_summary">Accent colors, icon shapes and more</string>
     <string name="system_customization_category">System Customization</string>
 
+    <!-- QS media player -->
+    <string name="qs_media">QS Media</string>
+    <string name="qs_media_player_title">Media player</string>
+    <string name="qs_media_player_summary_on">Show media player in QS\nRequires a SystemUI restart</string>
+    <string name="qs_media_player_summary_off">Show media player as a notification\nRequires a SystemUI restart</string>
+
 </resources>
